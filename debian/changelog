@@ -1,0 +1,8 @@
+ros-hydro-husky-interactive-markers (0.0.1-0quantal) quantal; urgency=high
+
+  * Catkinized and cleaned up package.
+  * Move husky_interactive_markers up to repo root.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 13 Sep 2013 04:00:00 -0000
+
+
